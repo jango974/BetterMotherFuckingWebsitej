@@ -2,7 +2,7 @@ function ouvrirPopup (page,nom,option){
 	window.open ("popup.html","pop1","width=500,height=500,left=500,top=200");
 }
 
-window.setTimeout("ouvrirPopup()",1000);
+window.setTimeout("ouvrirPopup()",10000);
 
 
 
