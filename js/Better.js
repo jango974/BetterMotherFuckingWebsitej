@@ -25,7 +25,7 @@ if( psyke.length > 0 ){
   if( titre.length > 0 ){
   for(var h = 0; h < titre.length; h++){
     titre[h].style['color'] = 'green'
-	titre[h].style.fontFamily = 'comicsans';
+	titre[h].style.fontFamily = 'comic Sans Ms';
 	  document.bgColor = 'magenta';
 }
 }
