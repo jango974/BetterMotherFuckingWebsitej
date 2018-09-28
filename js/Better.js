@@ -16,6 +16,7 @@ if( psyke.length > 0 ){
   for(var h = 0; h < psyke.length; h++){
     psyke[h].style['color'] = 'mediumslateblue'; 
     psyke [h].style.fontFamily = 'papyrus';
+	  document.bgColor = 'magenta';
   }
 }else{
    
@@ -25,6 +26,7 @@ if( psyke.length > 0 ){
   for(var h = 0; h < titre.length; h++){
     titre[h].style['color'] = 'green'
 	titre[h].style.fontFamily = 'comicsans';
+	  document.bgColor = 'magenta';
 }
 }
 else{
